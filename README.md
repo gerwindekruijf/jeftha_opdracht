@@ -8,7 +8,6 @@ Wanneer er "Run" staat, dan moet dit in je terminal / powershell uitvoeren
 3. Run: pip install virtualenv
 
 ### Opstarten project
-Maak een virtual environment
 4. Run: virtualenv venv
 5. Nu heb je als het goed is een folder erbij in je directory die 'venv' heet
 6. Activeer de virtual environment, Run: venv/Scripts/activate
